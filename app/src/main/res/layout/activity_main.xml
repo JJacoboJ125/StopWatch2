@@ -7,8 +7,8 @@
     android:padding="16dp">
 
     <TextView
-        android:id="@+id/time_view"
-        android:layout_width="match_parent"
+        android:id="@+id/tiempoVivo"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:textAppearance="@android:style/TextAppearance.Large"
